@@ -1,5 +1,7 @@
 # Sierpinksis_Triangle
 
+This program creates and displays the famous Sierpiński triangle fractal where equalaterial triangles are subdivided into smaller equilaterial triangles. This program uses a recursive approach to draw triangles and subtriangles up to a predetermined stopping point. 
+
 ![sierpinski's triangle](./sierpinski_images/sierpinski_resized.png)
 
 There is a class called sierpinksi, each object of sierpinksi keeps track of 
