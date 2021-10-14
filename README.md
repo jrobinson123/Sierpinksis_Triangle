@@ -1,5 +1,7 @@
 # Sierpinksis_Triangle
 
+![sierpinski's triangle](./sierpinski_images/sierpinski.png)
+
 There is a class called sierpinksi, each object of sierpinksi keeps track of 
 
 1: leftPoint, rightPoint, topPoint: the three PVectors that define the points of its triangle
