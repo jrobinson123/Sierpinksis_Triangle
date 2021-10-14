@@ -1,6 +1,6 @@
 # Sierpinksis_Triangle
 
-![sierpinski's triangle](./sierpinski_images/sierpinski.png){:height="50%" width="50%"}
+![sierpinski's triangle](./sierpinski_images/sierpinski_resized.png)
 
 There is a class called sierpinksi, each object of sierpinksi keeps track of 
 
